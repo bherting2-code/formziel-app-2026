@@ -1,0 +1,13 @@
+FORMZIEL – INSTALLATION AUF DEM IPHONE
+
+1. Auf github.com kostenlos anmelden bzw. einloggen.
+2. Neues Repository erstellen, z. B. "mein-abnehmkalender", auf PUBLIC stellen.
+3. Über "Add file" > "Upload files" die Dateien index.html, manifest.webmanifest, icon-192.png, icon-512.png und apple-touch-icon.png aus diesem Paket hochladen (NICHT nur ZIP hochladen).
+4. Unter Settings > Pages bei "Build and deployment" die Quelle "Deploy from a branch", Branch "main" und Ordner "/ (root)" auswählen und speichern.
+5. Die angezeigte HTTPS-Adresse auf dem iPhone in Safari öffnen.
+6. Safari-Teilen-Symbol > "Zum Home-Bildschirm" > "Hinzufügen".
+7. Den Kalender über das neue Formziel-Symbol öffnen.
+
+WICHTIG: Die Daten werden nur lokal auf dem jeweiligen Gerät gespeichert. Einträge vom PC erscheinen nicht automatisch auf dem iPhone. Nutze die Sicherungsfunktion im Kalender zum Export/Import. Beim Wechsel von Safari zur Home-Bildschirm-App kann iOS separate Speicherbereiche verwenden; darum Sicherung vor dem Wechsel anlegen.
+
+HINWEIS PRIVATSPHÄRE: Bei GitHub Pages mit einem PUBLIC Repository ist der Kalender öffentlich im Internet erreichbar, wenn jemand die URL kennt. Trage keine sensiblen Informationen ein, die über den lokalen Browser hinaus öffentlich sein sollen. Deine Essenseinträge sind nicht im Repository, sofern du sie nicht selbst hochlädst.
